@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/bin
+/Src/Application/bin
+/Src/Application/obj
+
+/Src/Domain/bin
+/Src/Domain/obj
+
+/Src/Infrastructure/bin
+/Src/Infrastructure/obj
+
+/Src/Presentation/bin
+/Src/Presentation/obj
+
+/Src/Application/Application.csproj.user
